@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fbtest",
+    "slug": "fbtest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fbtest"
+}
